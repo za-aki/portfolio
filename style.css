@@ -1,0 +1,9 @@
+h1{
+    color: black;
+}
+
+.right-aligned-text {
+    text-align: right;
+    border: 1px solid #ccc; /* Just for visibility */
+    padding: 10px;
+}
